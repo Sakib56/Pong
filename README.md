@@ -1,4 +1,4 @@
-# Pong in Processing 
+# Pong in Processing (2017)
 
 This was one of my very early projects (2017) where I set out to create pong within Processing for fun. 
 After I managed to get the initial game mechanics down, I added a few features to make the gameplay harder...
